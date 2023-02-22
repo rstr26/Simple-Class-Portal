@@ -4,7 +4,11 @@ INSTALLATION GUIDE
 - Open XAMPP and start Apache and MySQL
 - Go to phpMyAdmin and create a database 'portaldb'
 - Import the database 'portaldb'
-- Start the localhost and test the site
+- Open your IDE or a terminal/command prompt
+- Go to Class Portal folder path on your terminal
+- Start the local host server by typing the command 'php -S localhost:4000'
+- Open your browser and type the URL 'localhost:4000/pages/index.php'
+- Try the site using the credentials below
 
 LOGIN CREDENTIALS
 -TEACHERS(username, password)
